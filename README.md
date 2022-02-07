@@ -1,2 +1,2 @@
-# basics
+# Basics
 Basic coding examples
