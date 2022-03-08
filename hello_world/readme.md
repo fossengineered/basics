@@ -1,8 +1,6 @@
 
 # Coding C++
 
-# Script
-
 ### Turn “Human Readable” code → assembler → machine code
 
 - Compiler installation
