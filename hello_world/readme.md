@@ -48,11 +48,6 @@ CodeProjects->HelloWorld
     echo nul > main.c
     ```
     
-- Show finding code on google
-    - explain that a large percentage of coding is breaking things into small parts and then researching ideas to solve them individually
-- open editor with code already in it
-- quickly describe parts
-
 ### Compile application
 
 - open CMD from windows key+r
