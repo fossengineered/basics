@@ -24,7 +24,7 @@
         
     
     - click ok on all the open windows
-    - run
+    - open the CMD window then run the following command
 
 ```bash
 g++ --version
